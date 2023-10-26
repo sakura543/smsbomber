@@ -1,0 +1,9 @@
+# smsbomber
+I AM ALWAYS FOR YOU 
+
+RUN LIKE PYTHON FILE 
+=> Python bomber.py
+
+=>THEN ENTER VICTIM NUMBER
+
+BOOM
