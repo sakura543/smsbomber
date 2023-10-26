@@ -74,7 +74,7 @@ XXXXXXX       XXXXXXNNNNNNNN         NNNNNNN    OOOOOOOOO          TTTTTTTTTTT  
                                                                       by Samir Cyber Security
 """
 
-# Print the text in color
+#DO FORGET TO GIVE CREDIT BY BRO
 colored_text = (
     Color.PURPLE + text + Color.END  # You can change PURPLE to any other color
 )
